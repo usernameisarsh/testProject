@@ -1,3 +1,15 @@
+Project Introduction
+
+1) This app allows you to analyze your car in three-dimensional structure.
+
+2) It also allows to check the specifications of the vehicle.
+
+3) Using this app you can check all the legal customizations available for your vehicle.
+
+4) It also displays the specifications after adding the customizations in the vehicle.
+
+5) Additionally, it also allows you compare the prices of add-ons in the market and total budget for the customization including the taxation.
+
 hello
 this is now changed
 
